@@ -1,4 +1,4 @@
- # Rita Laezza
+# Rita Laezza
 ![Me](images/photo_bergen.jpg)
 
 ## About me
@@ -12,6 +12,7 @@ I started my graduate studies in February, 2019 after working for a little over 
 ### Supervisors
 
 Main Supervisor: [Yiannis Karayiannidis](http://yiannis.info/)
+
 Co-Supervisor: [Florian Pokorny](http://www.csc.kth.se/~fpokorny/)
 
 ### Project Description
