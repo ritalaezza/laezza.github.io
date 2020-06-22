@@ -1,11 +1,9 @@
 # Rita Laezza
+![Me](https://github.com/ritalaezza/laezza.github.io/blob/master/images/photo.jpg)
 
 ## About me
 
 I'm a PhD student at [Chalmers University of Technology](https://www.chalmers.se/en/Pages/default.aspx) in the [Mechatronics group](https://www.chalmers.se/en/departments/e2/research/systems-and-control/Pages/Mechatronics.aspx), within the division of Systems and Control. My research topic consists of robotic manipulation of deformable objects using learning-based methods. My position is funded by the Knut and Alice Wallenberg Foundation, as part of the [Wallenberg AI, Autonomous Systems and Software Program (WASP)](https://wasp-sweden.org/). I previously also completed my Master studies at Chalmers, where I did my Master thesis work within the [Biomechatronics and Neurorehabilitation Lab](http://www.bnl.chalmers.se/wordpress/). My focus was on implementing Deep Learning methods for myoelectric control, which has applications in robotic prosthetics and neuromuscular rehabilitation.
-
-### Days to exam:
-<iframe src="http://free.timeanddate.com/countdown/i7c8rd3r/n291/cf100/cm0/cu1/ct0/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw192/szh81/iso2024-01-31T00:00:00" allowTransparency="true" frameborder="0" width="192" height="81"></iframe>
 
 ## Education
 
@@ -14,13 +12,13 @@ I'm a PhD student at [Chalmers University of Technology](https://www.chalmers.se
 
 ### Minor education
 
-- **2019**, [Reinforcement Learning Summer SCOOL](https://rlss.inria.fr/)
-- **2019**, [Robotics Craftsmanship International Academy](https://robotcraft.ingeniarius.pt/)
-- **2018**, [Responsible Robotics and AI – IDEA League Summer School](https://responsiblerobotics.org/event/idea-league-summer-school/)
+- 2019, [Reinforcement Learning Summer SCOOL](https://rlss.inria.fr/)
+- 2019, [Robotics Craftsmanship International Academy](https://robotcraft.ingeniarius.pt/)
+- 2018, [Responsible Robotics and AI – IDEA League Summer School](https://responsiblerobotics.org/event/idea-league-summer-school/)
 
 ## Publications
 
-- Amado Laezza, Rita. *Deep neural networks for myoelectric pattern recognition-An implementation for multifunctional control*. MS thesis. 2018. [link](https://odr.chalmers.se/bitstream/20.500.12380/254980/1/254980.pdf)
+- Amado Laezza, Rita. *Deep neural networks for myoelectric pattern recognition-An implementation for multifunctional control*. MS thesis. 2018. [(link)](https://odr.chalmers.se/bitstream/20.500.12380/254980/1/254980.pdf)
 
 ## Contact
 
