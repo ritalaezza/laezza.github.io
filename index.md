@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Rita Laezza
 
-You can use the [editor on GitHub](https://github.com/ritalaezza/laezza.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## About me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm a PhD student at [Chalmers University of Technology](https://www.chalmers.se/en/Pages/default.aspx) in the [Mechatronics group](https://www.chalmers.se/en/departments/e2/research/systems-and-control/Pages/Mechatronics.aspx), within the division of Systems and Control. My research topic consists of robotic manipulation of deformable objects using learning-based methods. My position is funded by the Knut and Alice Wallenberg Foundation, as part of the [Wallenberg AI, Autonomous Systems and Software Program (WASP)](https://wasp-sweden.org/). I previously also completed my Master studies at Chalmers, where I did my Master thesis work within the [Biomechatronics and Neurorehabilitation Lab](http://www.bnl.chalmers.se/wordpress/). My focus was on implementing Deep Learning methods for myoelectric control, which has applications in robotic prosthetics and neuromuscular rehabilitation.
 
-### Markdown
+### Days to exam:
+<iframe src="http://free.timeanddate.com/countdown/i7c8rd3r/n291/cf100/cm0/cu1/ct0/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw192/szh81/iso2024-01-31T00:00:00" allowTransparency="true" frameborder="0" width="192" height="81"></iframe>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Education
 
-```markdown
-Syntax highlighted code block
+- 2018, **MSc. Biomedical Engineering**, *Chalmers University of Technology*
+- 2015, **BSc. Biomedical Engineering**, *Polytechnic Institute of Porto*
 
-# Header 1
-## Header 2
-### Header 3
+### Minor education
 
-- Bulleted
-- List
+- **2019**, [Reinforcement Learning Summer SCOOL](https://rlss.inria.fr/)
+- **2019**, [Robotics Craftsmanship International Academy](https://robotcraft.ingeniarius.pt/)
+- **2018**, [Responsible Robotics and AI – IDEA League Summer School](https://responsiblerobotics.org/event/idea-league-summer-school/)
 
-1. Numbered
-2. List
+## Publications
 
-**Bold** and _Italic_ and `Code` text
+- Amado Laezza, Rita. *Deep neural networks for myoelectric pattern recognition-An implementation for multifunctional control*. MS thesis. 2018. [link](https://odr.chalmers.se/bitstream/20.500.12380/254980/1/254980.pdf)
 
-[Link](url) and ![Image](src)
-```
+## Contact
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ritalaezza/laezza.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Email:** <laezza@chalmers.se>
